@@ -49,8 +49,8 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-patil-07/PaySplitter)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-craft.netlify.app/)
 
 </div>
 
