@@ -54,11 +54,10 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 </div>
 
-> 💡 *Replace the placeholder links above with your actual PaySplitter repo and live demo URLs.*
 
 <br>
 
-## 🚀 Other Things I've Built
+<!--## 🚀 Other Things I've Built
 
 <div align="center">
 
@@ -69,7 +68,7 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 > 💡 *Swap `REPO_NAME_1` / `REPO_NAME_2` for two more repos you want pinned/highlighted here.*
 
-<br>
+<br> -->
 
 ## 🛠️ Tech Stack
 
