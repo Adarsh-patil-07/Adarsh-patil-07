@@ -34,18 +34,22 @@ I'm currently deep in a **REST APIs → Spring Boot** learning sprint, sharpenin
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=header&text=PaySplitter&fontSize=36&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Adarsh-patil-07/Adarsh-patil-07/main/assets/paysplitter-icon.png" width="110"/>
 </div>
 
 **A cross-platform group-expense tracker (Web + Android) built to kill the "who owes who" spreadsheet chaos.**
 
-PaySplitter isn't just a bill-splitting app — it's built around a custom **settlement-optimization algorithm** that minimizes the number of transactions needed to settle group debts, plus a **Digital Pot equalization system** that keeps shared funds balanced fairly across members in real time.
+PaySplitter isn't just a bill-splitting app — it's built around a custom **settlement-optimization algorithm** that minimizes the number of transactions needed to settle group debts, plus a **Digital Pot equalization system** that keeps shared funds balanced fairly across members in real time. Trip members join instantly via **share-code-based invites** — no account friction required.
 
 | | |
 |---|---|
 | 🧮 **Core Logic** | Settlement-optimization algorithm to minimize repayment transactions |
 | 💰 **Digital Pot** | Automated equalization logic for shared group funds |
-| 📱 **Platforms** | Web app + Android app from a shared backend |
-| 🛠️ **Stack** | *(add your actual stack here — e.g. React, Flask/Spring Boot, MySQL)* |
+| 🔗 **Trip Invites** | Share-code-based joining — no forms, no friction |
+| 📱 **Platforms** | Web app + Android app from a shared codebase |
+| 🛠️ **Stack** | Vanilla JavaScript (ES6) • Firebase (Firestore + Auth) • Capacitor • Custom Node.js build pipeline |
+| ☁️ **Deployed** | Netlify |
 
 <div align="center">
 
@@ -54,21 +58,18 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 </div>
 
-
 <br>
 
-<!--## 🚀 Other Things I've Built
+## 🚀 Other Things I've Built
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=REPO_NAME_1&theme=dark&hide_border=true" width="48%"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=REPO_NAME_2&theme=dark&hide_border=true" width="48%"/></a>
+<a href="https://github.com/Adarsh-patil-07/Email-Scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=Email-Scheduler&theme=tokyonight&hide_border=true" width="48%"/></a>
+<a href="https://github.com/Adarsh-patil-07/Fashion-Store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=Fashion-Store&theme=tokyonight&hide_border=true" width="48%"/></a>
 
 </div>
 
-> 💡 *Swap `REPO_NAME_1` / `REPO_NAME_2` for two more repos you want pinned/highlighted here.*
-
-<br> -->
+<br>
 
 ## 🛠️ Tech Stack
 
