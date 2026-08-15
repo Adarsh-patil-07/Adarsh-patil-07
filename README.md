@@ -149,18 +149,7 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 
 
 <div align="center">
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-patil-07&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adarsh-patil-07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-<br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Adarsh-patil-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
-
 </div>
 
 </details>
