@@ -165,11 +165,6 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 
 </details>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:203a43&height=2&width=1000" width="80%"/>
-</div>
 
 <br>
 
@@ -177,7 +172,6 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 
 ## 🌐 Let's Connect
 
-<a href="https://instagram.com/adarsh.patil_07"><img src="https://img.shields.io/badge/Instagram-1B2735?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 <a href="https://linkedin.com/in/adarsh-patil0721"><img src="https://img.shields.io/badge/LinkedIn-1B2735?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 <a href="https://adarsh-patil-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1B2735?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:adaesocial@gmail.com"><img src="https://img.shields.io/badge/Email-1B2735?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
