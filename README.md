@@ -99,14 +99,6 @@ Outside of code: I edit video, shoot content, and once won a gaming competition 
 
 <br>
 
-<div align="center">
-
-## 🚀 Also Built
-
-<a href="https://github.com/Adarsh-patil-07/Email-Scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=Email-Scheduler&theme=tokyonight&hide_border=true&border_radius=10" width="47%"/></a>
-<a href="https://github.com/Adarsh-patil-07/Fashion-Store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-patil-07&repo=Fashion-Store&theme=tokyonight&hide_border=true&border_radius=10" width="47%"/></a>
-
-</div>
 
 <br>
 
