@@ -147,12 +147,6 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 
 ## 📊 GitHub Analytics
 
-<br>
-
-<details>
-<summary align="center"><b>📈 Streak, activity & trophies — click to expand</b></summary>
-
-<br>
 
 <div align="center">
 
