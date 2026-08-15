@@ -150,9 +150,6 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-patil-07&theme=tokyonight&hide_border=true&border_radius=10" width="65%"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-patil-07&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
