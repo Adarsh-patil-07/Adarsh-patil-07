@@ -104,7 +104,6 @@ Outside of code: I edit video, shoot content, and once won a gaming competition 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:203a43&height=2&width=1000" width="80%"/>
 </div>
 
-<br>
 
 ## 🛠️ Tech Stack
 
