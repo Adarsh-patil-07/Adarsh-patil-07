@@ -97,8 +97,6 @@ Outside of code: I edit video, shoot content, and once won a gaming competition 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:203a43&height=2&width=1000" width="80%"/>
 </div>
 
-<br>
-
 
 <br>
 
@@ -148,13 +146,6 @@ Object-Oriented Programming · Problem-solving · Technical documentation · Sta
 <br>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-patil-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-patil-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="35%"/>
-
-</div>
 
 <br>
 
