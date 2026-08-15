@@ -1,14 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adarsh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20Python%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Adarsh%20Patil&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20JavaScript%20%7C%20Building%20things%20that%20ship&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+welcome+to+my+GitHub+%F0%9F%91%8B;I+build+full+stack+web+%26+AI-powered+tools;Check+out+PaySplitter+%E2%86%93+my+flagship+project;Always+open+to+collaborate+%26+chat+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+welcome+to+my+GitHub+%F0%9F%91%8B;I+build+full+stack+web+%26+AI-powered+tools;Check+out+PaySplitter+%E2%86%93+my+flagship+project;Always+open+to+collaborate+%26+chat+tech!" alt="Typing SVG" />
 </a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adarsh-patil-07&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Adarsh-patil-07?style=for-the-badge&color=38BDF8&labelColor=0f2027&logo=github"/>
+<img src="https://img.shields.io/badge/Open_to_Work-2C5364?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+<br><br>
+
+<a href="#-about-me">About</a> •
+<a href="#-featured-project--paysplitter">PaySplitter</a> •
+<a href="#-other-things-ive-built">Projects</a> •
+<a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
 
 ### 👋 A quick hello
 
@@ -19,37 +36,54 @@ Thanks for stopping by! Whether you're a fellow developer, a recruiter, or just 
 ## 🧭 About Me
 
 ```yaml
-role: Frontend & Full Stack Developer | AI/Automation Enthusiast
-focus: Java • Spring Boot • React • Python • Flask
-currently_exploring: REST APIs, Spring Boot, scalable backend automation
-creative_side: Videography & video editing — also a college gaming champ 🎮
+role: Frontend & Full Stack Developer
+focus: Java • JavaScript (ES6) • SQL • Firebase
+currently_exploring: REST APIs → Spring Boot
+creative_side: Videography & video editing 🎬
+achievement: College gaming champion 🎮
 based_in: Bengaluru, India
 ```
 
-I'm currently deep in a **REST APIs → Spring Boot** learning sprint, sharpening my full-stack chops beyond frontend work, and shipping projects that blend clean UI with real backend logic. When I'm not coding, I'm usually editing videos or hunting for the next tech tip worth sharing.
+I'm currently deep in a **REST APIs → Spring Boot** learning sprint, sharpening my full-stack chops beyond frontend work, and shipping projects that blend clean UI with real backend logic.
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
 
 ## 🌟 Featured Project — PaySplitter
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=header&text=PaySplitter&fontSize=36&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Adarsh-patil-07/Adarsh-patil-07/main/assets/paysplitter-icon.png" width="110"/>
-</div>
+<img src="https://raw.githubusercontent.com/Adarsh-patil-07/Adarsh-patil-07/main/PaySplitter-icon.png" width="100"/>
+
+### 💸 Split smarter. Settle faster.
 
 **A cross-platform group-expense tracker (Web + Android) built to kill the "who owes who" spreadsheet chaos.**
 
-PaySplitter isn't just a bill-splitting app — it's built around a custom **settlement-optimization algorithm** that minimizes the number of transactions needed to settle group debts, plus a **Digital Pot equalization system** that keeps shared funds balanced fairly across members in real time. Trip members join instantly via **share-code-based invites** — no account friction required.
+</div>
 
-| | |
-|---|---|
-| 🧮 **Core Logic** | Settlement-optimization algorithm to minimize repayment transactions |
-| 💰 **Digital Pot** | Automated equalization logic for shared group funds |
-| 🔗 **Trip Invites** | Share-code-based joining — no forms, no friction |
-| 📱 **Platforms** | Web app + Android app from a shared codebase |
-| 🛠️ **Stack** | Vanilla JavaScript (ES6) • Firebase (Firestore + Auth) • Capacitor • Custom Node.js build pipeline |
-| ☁️ **Deployed** | Netlify |
+PaySplitter is built around a custom **settlement-optimization algorithm** that minimizes the number of transactions needed to settle group debts, plus a **Digital Pot equalization system** that keeps shared funds balanced fairly across members in real time. Trip members join instantly via **share-code-based invites** — no account friction required.
+
+<table>
+<tr>
+<td>🧮</td><td><b>Core Logic</b></td><td>Settlement-optimization algorithm to minimize repayment transactions</td>
+</tr>
+<tr>
+<td>💰</td><td><b>Digital Pot</b></td><td>Automated equalization logic for shared group funds</td>
+</tr>
+<tr>
+<td>🔗</td><td><b>Trip Invites</b></td><td>Share-code-based joining — no forms, no friction</td>
+</tr>
+<tr>
+<td>📱</td><td><b>Platforms</b></td><td>Web app + Android app from a shared codebase</td>
+</tr>
+<tr>
+<td>🛠️</td><td><b>Stack</b></td><td>Vanilla JavaScript (ES6) • Firebase (Firestore + Auth) • Capacitor • Custom Node.js build pipeline</td>
+</tr>
+<tr>
+<td>☁️</td><td><b>Deployed</b></td><td>Netlify</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -59,6 +93,8 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
 
 ## 🚀 Other Things I've Built
 
@@ -71,40 +107,83 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,py,mysql,nodejs,react,nextjs,git,github&theme=dark" />
+<sub><b>LANGUAGES</b></sub>
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript_(ES6)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br><br>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<sub><b>WEB TECHNOLOGIES</b></sub>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
+
+<br><br>
+
+<sub><b>BACKEND & DATABASE</b></sub>
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Relational_DB_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br><br>
+
+<sub><b>TOOLS & PLATFORMS</b></sub>
+<br>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI--assisted_Dev_Tools-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 <br>
 
+<div align="center">
+
+| 🧩 Core Concepts | 🤝 Soft Skills |
+|:---|:---|
+| Object-Oriented Programming | Problem-solving |
+| | Technical documentation |
+| | Stakeholder communication |
+| | Task ownership |
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-patil-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-patil-07&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-patil-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-patil-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="35%"/>
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-patil-07&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-patil-07&theme=tokyonight&hide_border=true&border_radius=10" width="65%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-patil-07&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-patil-07&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adarsh-patil-07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
 </div>
 
@@ -119,6 +198,8 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" width="100%"/>
 
 ## 🌐 Let's Connect
 
@@ -135,7 +216,7 @@ PaySplitter isn't just a bill-splitting app — it's built around a custom **set
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Adarsh-patil-07&icon=0&color=6)](https://visitcount.itsvg.in)
+<sub>Thanks for reading this far — go build something 🚀</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
